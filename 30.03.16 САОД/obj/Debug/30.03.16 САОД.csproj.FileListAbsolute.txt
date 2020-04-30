@@ -1,0 +1,39 @@
+Z:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+Z:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe
+Z:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.pdb
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csprojResolveAssemblyReference.cache
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Form1.resources
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Properties.Resources.resources
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csproj.GenerateResource.Cache
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+Z:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb
+D:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb
+D:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe
+D:\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.pdb
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csprojResolveAssemblyReference.cache
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Form1.resources
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Properties.Resources.resources
+D:\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csproj.GenerateResource.Cache
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.pdb
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csprojResolveAssemblyReference.cache
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Form1.resources
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Properties.Resources.resources
+E:\Yни\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csproj.GenerateResource.Cache
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\bin\Debug\30.03.16 САОД.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Form1.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Properties.Resources.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.csproj.GenerateResource.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\30.03.16 САОД\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb

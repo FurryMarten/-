@@ -1,0 +1,9 @@
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\Пирамида.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\пирамида.Form1.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\_30._03._16_САОД.Properties.Resources.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\Пирамида.csproj.GenerateResource.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\30.03.16 САОД.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\obj\Debug\30.03.16 САОД.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe.config
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\bin\Debug\30.03.16 САОД.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\нужный 1 пирамиды\30.03.16 САОД\bin\Debug\30.03.16 САОД.pdb
